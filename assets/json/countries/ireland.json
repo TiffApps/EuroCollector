@@ -1,0 +1,47 @@
+{
+ "country": "Ireland",
+ "flagPath": "assets/image/flags/Ireland.png",
+ "description": "The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1cent.jpg"
+  }
+ ]
+}

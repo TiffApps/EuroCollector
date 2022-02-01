@@ -1,0 +1,47 @@
+{
+ "country": "Luxembourg",
+ "flagPath": "assets/image/flags/Luxembourg.png",
+ "description": "Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.\nAll the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_1cent.jpg"
+  }
+ ]
+}

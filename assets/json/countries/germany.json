@@ -1,0 +1,47 @@
+{
+ "country": "Germany",
+ "flagPath": "assets/image/flags/Germany.png",
+ "description": "German officials and experts in numismatics chose three different designs for their euro coins.",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_1euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_1cent.jpg"
+  }
+ ]
+}

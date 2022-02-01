@@ -1,0 +1,47 @@
+{
+ "country": "Netherlands",
+ "flagPath": "assets/image/flags/Netherlands.png",
+ "description": "The Netherlands chose two designs by Bruno Ninaber van Eyben, showing Queen Beatrix, for the first series. There are two series of coins in circulation. Both are valid.\nThe second series, introduced in 2014, shows King Willem-Alexander and bears the inscription \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands).",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "First series: Queen Beatrix is shown with the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: King Willem-Alexander is shown with the inscription \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the year of issuance. Edge-lettering of the €2 coin, both series: GOD * ZIJ * MET * ONS * (God be with us).",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_2euro_2001.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "First series: Queen Beatrix is shown with the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: King Willem-Alexander is shown with the inscription \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the year of issuance.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_1euro_2000.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_50cents_2000.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_20cent_2000.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_10cent_2000.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_5cent_2000.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_2cent_2000.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "First series: Queen Beatrix is shown encircled by the inscription \"Beatrix Koningin der Nederlanden\" (Queen of the Netherlands).\nSecond series: Superimposed on an effigy of the King Willem-Alexander are the words \"Willem-Alexander Koning der Nederlanden\" (King of the Netherlands). The mint marks appear on either side of the name.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_1cent_2000.jpg"
+  }
+ ]
+}

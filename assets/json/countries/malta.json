@@ -1,0 +1,47 @@
+{
+ "country": "Malta",
+ "flagPath": "assets/image/flags/Malta.png",
+ "description": "",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "The €1 and €2 coins show the emblem used by the Sovereign Order of Malta. During the Order's rule over Malta, between 1530 and 1798, the eight-pointed cross became associated with the island and is now often referred to as the Maltese Cross.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "The €1 and €2 coins show the emblem used by the Sovereign Order of Malta. During the Order's rule over Malta, between 1530 and 1798, the eight-pointed cross became associated with the island and is now often referred to as the Maltese Cross.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta).",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta).",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta).",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_1cent.jpg"
+  }
+ ]
+}

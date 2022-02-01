@@ -1,0 +1,47 @@
+{
+ "country": "Slovenia",
+ "flagPath": "assets/image/flags/Slovenia.png",
+ "description": "",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "This coin shows the poet France Prešeren and the inscription \"Shivé naj vsi naródi\" (God’s blessing on all nations) − a line taken from his poem \"Zdravljica\" which is also used in the country’s national anthem. Edge lettering of the €2 coin: SLOVENIJA followed by an engraved dot.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_2Euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "This coin bears a portrait of Primož Trubar, author of the first book printed in Slovene.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "The Triglav mountain is depicted on this coin.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "Lipizzaner horses form the central feature of this design.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "This coin features architect Jože Plečnik’s unrealised plan for the Slovenian Parliament.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "This coin depicts a sower.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "The Sovereign Enthronement Stone features on this coin.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "This coin bears the image of a stork.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_1cent.jpg"
+  }
+ ]
+}

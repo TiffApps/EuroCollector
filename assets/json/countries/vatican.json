@@ -1,0 +1,47 @@
+{
+ "country": "Vatican City",
+ "flagPath": "assets/image/flags/Vatican.png",
+ "description": "There are five series of Vatican City coins in circulation. All are valid.\nThe first series, showing Pope John Paul II, was issued between 2002 and 2005.\nThe second series, issued between June 2005 and March 2006, shows the coat of arms of the Cardinal Chamberlain, the acting head of state of the Vatican City, superimposed on the emblem of the Apostolic Chamber in the centre of the coin. The upper part of this design is surrounded by the semicircular words \"SEDE VACANTE\" and the year of issue in Roman numerals, i.e. \"MMV\". The designer's name, \"D. LONGO\", appears on the lower left-hand edge of the central design, while the respective engraver's initials appear on the lower right-hand edge, namely \"MAC inc\" (on the 1 and 20 cent coins), \"LDS inc\" (on the 2 and 50 cent coins), \"ELF inc\" (on the 5 cent and €1 coins) and \"MCC inc\" (on the 10 cent and €2 coins).\nThe third series, issued between April 2006 and December 2013, shows Pope Benedict XVI. To the left are the designer’s initials (\"DL\").\nThe fourth series, first issued in January 2014, shows Pope Francis.\nThe fifth series, first issued in March 2017, shows the coat of arms of the Sovereign of the Vatican City State, Pope Francis.\nThe coins in each series feature the 12 stars of the European flag, the words \"CITTÀ DEL VATICANO\", the year of issuance and the mintmark \"R\".",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vaticano_2euro_2002.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1euro_2002.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_50cent_2002.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_20cent_2002.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_10cent_2002.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_5cent_2002.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_2cent_2002.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1cent_2002.jpg"
+  }
+ ]
+}

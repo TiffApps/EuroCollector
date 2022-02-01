@@ -1,0 +1,47 @@
+{
+ "country": "Estonia",
+ "flagPath": "assets/image/flags/Estonia.png",
+ "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_2Euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_1cent.jpg"
+  }
+ ]
+}

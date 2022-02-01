@@ -1,0 +1,47 @@
+{
+ "country": "Portugal",
+ "flagPath": "assets/image/flags/Portugal.png",
+ "description": "Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "€1 and €2 coins: the country's castles and coats of arms are set amid the European stars. This symbolises dialogue, the exchange of values and the dynamics of the building of Europe. The centrepiece is the royal seal of 1144. Edge lettering of the €2 coin: five coats of arms and seven castles, all equally spaced.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "€1 and €2 coins: the country's castles and coats of arms are set amid the European stars. This symbolises dialogue, the exchange of values and the dynamics of the building of Europe. The centrepiece is the royal seal of 1144.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_1cent.jpg"
+  }
+ ]
+}

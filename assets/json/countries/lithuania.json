@@ -1,0 +1,47 @@
+{
+ "country": "Lithuania",
+ "flagPath": "assets/image/flags/Lithuania.png",
+ "description": "Lithuania’s (since the 1st of January 2015) euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_2euro_2015.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_1euro_2015.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_50cent_2014.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_20cent_2015.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_10cent_2015.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_5cent_2015.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_2cent_2015.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_1cent_2015.jpg"
+  }
+ ]
+}

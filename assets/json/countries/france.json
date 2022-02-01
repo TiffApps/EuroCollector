@@ -1,0 +1,47 @@
+{
+ "country": "France",
+ "flagPath": "assets/image/flags/France.png",
+ "description": "Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.\nThe panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_2euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_1cent.jpg"
+  }
+ ]
+}

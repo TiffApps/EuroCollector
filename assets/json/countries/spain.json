@@ -1,0 +1,47 @@
+{
+ "country": "Spain",
+ "flagPath": "assets/image/flags/Spain.png",
+ "description": "Spain’s coins feature three designs with effigies of the King, Miguel de Cervantes and the cathedral of Santiago de Compostela. There are three series of coins in circulation. All are valid.\nFor the second series, the coins were slightly redesigned in 2010 in order to comply with the common guidelines issued by the European Commission. The year, for instance, is inscribed on the inner part of the coin.",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "The first and second series show a portrait of King Juan Carlos I de Borbón y Borbón.\nIn 2015, Spain introduced a third series of €1 and €2 coins showing the new King Felipe VI and the country code ‘ESPAÑA 2015’. The mint mark appears at the right of the effigy.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_2Euro_2003.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "The first and second series show a portrait of King Juan Carlos I de Borbón y Borbón.\nIn 2015, Spain introduced a third series of €1 and €2 coins showing the new King Felipe VI and the country code ‘ESPAÑA 2015’. The mint mark appears at the right of the effigy.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_1Euro_1999.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "10, 20 and 50-cent coins: Miguel de Cervantes, the father of Spanish literature, is shown on these coins, reflecting \"the universality of the man and his work\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_50cent_1999.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "10, 20 and 50-cent coins: Miguel de Cervantes, the father of Spanish literature, is shown on these coins, reflecting \"the universality of the man and his work\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_20cent_2001.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "10, 20 and 50-cent coins: Miguel de Cervantes, the father of Spanish literature, is shown on these coins, reflecting \"the universality of the man and his work\".",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_10cent_2003.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "1, 2 and 5-cent coins: the cathedral of Santiago de Compostela, a jewel of Spanish Romanesque architecture and one of the most famous pilgrimage destinations in the world, is pictured on these coins. They show the monumental facade of the Obradoiro, a splendid example of Spanish baroque construction, started in 1667 by Jose del Toro and Domingo de Andrade. It was finished in the 18th century by Fernando Casas y Novoa.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_5cent_1999.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "1, 2 and 5-cent coins: the cathedral of Santiago de Compostela, a jewel of Spanish Romanesque architecture and one of the most famous pilgrimage destinations in the world, is pictured on these coins. They show the monumental facade of the Obradoiro, a splendid example of Spanish baroque construction, started in 1667 by Jose del Toro and Domingo de Andrade. It was finished in the 18th century by Fernando Casas y Novoa.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_2cent_2002.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "1, 2 and 5-cent coins: the cathedral of Santiago de Compostela, a jewel of Spanish Romanesque architecture and one of the most famous pilgrimage destinations in the world, is pictured on these coins. They show the monumental facade of the Obradoiro, a splendid example of Spanish baroque construction, started in 1667 by Jose del Toro and Domingo de Andrade. It was finished in the 18th century by Fernando Casas y Novoa.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_1cent_1999.jpg"
+  }
+ ]
+}

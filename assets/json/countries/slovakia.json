@@ -1,0 +1,47 @@
+{
+ "country": "Slovakia",
+ "flagPath": "assets/image/flags/Slovakia.png",
+ "description": "",
+ "coins": [
+  {
+   "value": "€2",
+   "description": "The €1 and €2 coins depict a double cross on three hills, as featured in the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_2Euro.jpg"
+  },
+  {
+   "value": "€1",
+   "description": "The €1 and €2 coins depict a double cross on three hills, as featured in the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_1Euro.jpg"
+  },
+  {
+   "value": "50 cent",
+   "description": "The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_50cent.jpg"
+  },
+  {
+   "value": "20 cent",
+   "description": "The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_20cent.jpg"
+  },
+  {
+   "value": "10 cent",
+   "description": "The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_10cent.jpg"
+  },
+  {
+   "value": "5 cent",
+   "description": "The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_5cent.jpg"
+  },
+  {
+   "value": "2 cent",
+   "description": "The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_2cent.jpg"
+  },
+  {
+   "value": "1 cent",
+   "description": "The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.",
+   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_1cent.jpg"
+  }
+ ]
+}
