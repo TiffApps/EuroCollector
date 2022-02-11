@@ -1,4 +1,5 @@
 import 'package:euro_collector/pages/home.dart';
+import 'package:euro_collector/pages/loading.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
@@ -28,6 +29,7 @@ class EuroCollector extends StatelessWidget {
         depth: 2,
       ),
       home: HomePage(),
+      // home: LoadingPage(),
     );
   }
 }
