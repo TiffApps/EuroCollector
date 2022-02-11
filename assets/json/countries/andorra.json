@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "The €2 coin shows the coat of arms of Andorra with the motto \"virtus unita fortior\" (virtue united is stronger). Edge-lettering of the €2 coin: 2 **, repeated six times.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/ad_2euro.jpg"
+   "image": "ad/Andorra_2euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/ad_2euro.jpg"
   },
   {
    "value": "€1",
    "description": "The €1 coin features Casa de la Vall, the former seat of parliament and a building of cultural and historical interest.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_1euro.jpg"
+   "image": "ad/Andorra_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_1euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_50cent.jpg"
+   "image": "ad/Andorra_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_20cent.jpg"
+   "image": "ad/Andorra_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_10cent.jpg"
+   "image": "ad/Andorra_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_5cent.jpg"
+   "image": "ad/Andorra_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_2cent.jpg"
+   "image": "ad/Andorra_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_1cent.jpg"
+   "image": "ad/Andorra_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ad/Andorra_1cent.jpg"
   }
  ]
 }

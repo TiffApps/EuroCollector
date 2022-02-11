@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_2Euro.jpg"
+   "image": "cy/Cyprus_2Euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_2Euro.jpg"
   },
   {
    "value": "€1",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1euro.jpg"
+   "image": "cy/Cyprus_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_50cent.jpg"
+   "image": "cy/Cyprus_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_20cent.jpg"
+   "image": "cy/Cyprus_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_10cent.jpg"
+   "image": "cy/Cyprus_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_5cent.jpg"
+   "image": "cy/Cyprus_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_2cent.jpg"
+   "image": "cy/Cyprus_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1cent.jpg"
+   "image": "cy/Cyprus_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1cent.jpg"
   }
  ]
 }

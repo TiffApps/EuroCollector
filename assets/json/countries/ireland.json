@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2euro.jpg"
+   "image": "ie/Ireland_2euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2euro.jpg"
   },
   {
    "value": "€1",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1euro.jpg"
+   "image": "ie/Ireland_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_50cent.jpg"
+   "image": "ie/Ireland_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_20cent.jpg"
+   "image": "ie/Ireland_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_10cent.jpg"
+   "image": "ie/Ireland_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_5cent.jpg"
+   "image": "ie/Ireland_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2cent.jpg"
+   "image": "ie/Ireland_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1cent.jpg"
+   "image": "ie/Ireland_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1cent.jpg"
   }
  ]
 }

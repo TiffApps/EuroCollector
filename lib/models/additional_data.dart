@@ -30,7 +30,7 @@ class AdditionalData extends ChangeNotifier {
 
     List<int> bytes = [];
 
-    final file = await _getFile('song.mp3');
+    final file = await getFile('song.mp3');
     response.stream.listen(
       (List<int> newBytes) {
         bytes.addAll(newBytes);
@@ -51,9 +51,9 @@ class AdditionalData extends ChangeNotifier {
     );
   }
 
-  Future<File> _getFile(String filename) async {
+  Future<File> getFile(String filename) async {
     final dir = await getApplicationDocumentsDirectory();
-    print(dir.path);
+    print(dir.path + "/" + filename);
     return File("${dir.path}/$filename");
   }
 }

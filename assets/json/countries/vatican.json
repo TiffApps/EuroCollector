@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vaticano_2euro_2002.jpg"
+   "image": "va/Vaticano_2euro_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vaticano_2euro_2002.jpg"
   },
   {
    "value": "€1",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1euro_2002.jpg"
+   "image": "va/Vatican_1euro_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1euro_2002.jpg"
   },
   {
    "value": "50 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_50cent_2002.jpg"
+   "image": "va/Vatican_50cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_50cent_2002.jpg"
   },
   {
    "value": "20 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_20cent_2002.jpg"
+   "image": "va/Vatican_20cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_20cent_2002.jpg"
   },
   {
    "value": "10 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_10cent_2002.jpg"
+   "image": "va/Vatican_10cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_10cent_2002.jpg"
   },
   {
    "value": "5 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_5cent_2002.jpg"
+   "image": "va/Vatican_5cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_5cent_2002.jpg"
   },
   {
    "value": "2 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_2cent_2002.jpg"
+   "image": "va/Vatican_2cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_2cent_2002.jpg"
   },
   {
    "value": "1 cent",
    "description": "Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1cent_2002.jpg"
+   "image": "va/Vatican_1cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/va/Vatican_1cent_2002.jpg"
   }
  ]
 }

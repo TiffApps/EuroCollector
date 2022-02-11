@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "This coin bears a portrait of the pacifist Bertha von Suttner, a symbol of Austria's efforts over many decades to support peace. Edge lettering of the €2 coin: 2 EURO ***, repeated four times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_2Euro.jpg"
+   "image": "at/Austria_2Euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_2Euro.jpg"
   },
   {
    "value": "€1",
    "description": "Depicted on this coin is Wolfgang Amadeus Mozart, the famous Austrian composer, in reference to Austria as a land of music.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1Euro.jpg"
+   "image": "at/Austria_1Euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1Euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "This coin shows the secession building in Vienna, illustrating the birth of art nouveau in Austria. The building symbolises the birth of a new age and represents a bridge to a new monetary era.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_50cent.jpg"
+   "image": "at/Austria_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "This design features the Belvedere Palace, one of the most beautiful baroque palaces in Austria. It was here that the treaty re-establishing the sovereignty of Austria was signed in 1955, making its name synonymous with freedom.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_20cent.jpg"
+   "image": "at/Austria_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "St. Stephen's Cathedral, one of the jewels of Viennese Gothic architecture and a popular tourist venue, is depicted on this coin.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_10cent.jpg"
+   "image": "at/Austria_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "This coin features alpine primroses, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_5cent.jpg"
+   "image": "at/Austria_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "This coin features an edelweiss, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_2cent.jpg"
+   "image": "at/Austria_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "This coin features a gentian, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1cent.jpg"
+   "image": "at/Austria_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1cent.jpg"
   }
  ]
 }

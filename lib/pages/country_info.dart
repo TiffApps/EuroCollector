@@ -1,3 +1,6 @@
+import 'dart:io';
+
+import 'package:euro_collector/models/additional_data.dart';
 import 'package:euro_collector/models/country_coin.dart';
 import 'package:euro_collector/utils/fullscreen_image_view.dart';
 import 'package:flutter/material.dart';
@@ -11,6 +14,15 @@ class CountryInfo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double screenWidth = MediaQuery.of(context).size.width;
+
+    Future<Widget> _getCoinImage(Coin coin) async {
+      final File file = await AdditionalData().getFile(coin.image);
+      if (file.existsSync() == true) {
+        return Image.file(file, fit: BoxFit.contain);
+      } else {
+        return Image.network(coin.imageUrl, fit: BoxFit.contain);
+      }
+    }
 
     return Scaffold(
       extendBodyBehindAppBar: true,
@@ -115,8 +127,19 @@ class CountryInfo extends StatelessWidget {
                                         current: index))),
                             child: SizedBox(
                               width: 150,
-                              child: Image.network(data.coins[index].imageUrl,
-                                  fit: BoxFit.contain),
+                              child: FutureBuilder(
+                                  future: _getCoinImage(data.coins[index]),
+                                  builder: (context,
+                                      AsyncSnapshot<Widget> snapshot) {
+                                    if (snapshot.hasData) {
+                                      return snapshot.data!;
+                                    } else if (snapshot.hasError) {
+                                      return Text(snapshot.error.toString());
+                                    } else {
+                                      return const Center(
+                                          child: CircularProgressIndicator());
+                                    }
+                                  }),
                             ),
                           ),
                           const SizedBox(

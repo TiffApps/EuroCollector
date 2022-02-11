@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "First series: The Government building (Palazzo Pubblico) is shown on this coin.\nSecond series: The portrait of Saint Marino, detail of a painting by Giovan Battista Urbinelli, is shown on this coin. Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_2euro_2010.jpg"
+   "image": "sm/SanMarino_2euro_2010.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_2euro_2010.jpg"
   },
   {
    "value": "€1",
    "description": "First series: The Republic's official coat of arms features on the €1 coin.\nSecond series: The Second Tower features on the €1 coin.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_1euro_2010.jpg"
+   "image": "sm/SanMarino_1euro_2010.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_1euro_2010.jpg"
   },
   {
    "value": "50 cent",
    "description": "First series: The 50-cent coin shows the Three Towers of San Marino: Guaita, Cesta and Montale.\nSecond series: The 50-cent coin shows the portrait of Saint Marino, detail of a painting by Emilio Retrosi.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_50cent.jpg"
+   "image": "sm/SanMarino_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "First series: Saint Marinus, based on a canvas of the Guercino school, is depicted on this coin.\nSecond series: Mount Titano with the three Towers is depicted on this coin.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_20cent.jpg"
+   "image": "sm/SanMarino_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "First series: The 10-cent coin features the Basilica of Saint Marinus.\nSecond series: The 10-cent coin features the Church of St Francis.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_10cent.jpg"
+   "image": "sm/SanMarino_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "First series: The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.\nSecond series: The 1, 2 and 5-cent coins show the official coat of arms of the Republic of San Marino, the City Gate and the Church of St Quirinus, respectively.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_5cent.jpg"
+   "image": "sm/SanMarino_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "First series: The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.\nSecond series: The 1, 2 and 5-cent coins show the official coat of arms of the Republic of San Marino, the City Gate and the Church of St Quirinus, respectively.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_2cent.jpg"
+   "image": "sm/SanMarino_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "First series: The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.\nSecond series: The 1, 2 and 5-cent coins show the official coat of arms of the Republic of San Marino, the City Gate and the Church of St Quirinus, respectively.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_1cent.jpg"
+   "image": "sm/SanMarino_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sm/SanMarino_1cent.jpg"
   }
  ]
 }

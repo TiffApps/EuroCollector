@@ -18,6 +18,7 @@ class CommCoin {
 class SpecialCoin {
   final String country;
   final String name;
+  final String image;
   final String imageUrl;
   final String description;
   final String releaseDate;
@@ -26,6 +27,7 @@ class SpecialCoin {
   SpecialCoin({
     required this.country,
     required this.name,
+    required this.image,
     required this.imageUrl,
     required this.description,
     required this.releaseDate,
@@ -36,7 +38,8 @@ class SpecialCoin {
     return SpecialCoin(
       country: json['country'],
       name: json['name'],
-      imageUrl: json['image'],
+      image: json['image'],
+      imageUrl: json['imageUrl'],
       description: json['description'],
       releaseDate: json['release_date'],
       mintage: json['mintage'],

@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_2euro.jpg"
-  },
+   "image": "fi/Finland_2euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_2euro.jpg"
+},
   {
    "value": "€1",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1euro.jpg"
-  },
+   "image": "fi/Finland_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1euro.jpg"
+},
   {
    "value": "50 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_50cent.jpg"
-  },
+   "image": "fi/Finland_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_50cent.jpg"
+},
   {
    "value": "20 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_20cent.jpg"
-  },
+   "image": "fi/Finland_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_20cent.jpg"
+},
   {
    "value": "10 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_10cent.jpg"
-  },
+   "image": "fi/Finland_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_10cent.jpg"
+},
   {
    "value": "5 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_5cent.jpg"
-  },
+   "image": "fi/Finland_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_5cent.jpg"
+},
   {
    "value": "2 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_2cent.jpg"
-  },
+   "image": "fi/Finland_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_2cent.jpg"
+},
   {
    "value": "1 cent",
    "description": "1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1cent.jpg"
-  }
+   "image": "fi/Finland_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1cent.jpg"
+}
  ]
 }

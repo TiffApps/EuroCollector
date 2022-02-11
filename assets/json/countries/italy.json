@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "Depicted on this coin is a portrait drawn by Raphaël of Dante Alighieri, housed in the Pope Julius II Wing of the Vatican City Palace. Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_2euro.jpg"
+   "image": "it/Italy_2euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_2euro.jpg"
   },
   {
    "value": "€1",
    "description": "This coin shows the famous drawing by Leonardo da Vinci, displayed in the gallery of the Academy in Venice, illustrating the ideal proportions of the human body.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1euro.jpg"
+   "image": "it/Italy_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "The statue of Emperor Marcus Aurelius on horseback is the main feature on this coin.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_50cent.jpg"
+   "image": "it/Italy_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "Portrayed on this coin is a sculpture by Umberto Boccioni, leader of the Italian futurist school.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_20cent.jpg"
+   "image": "it/Italy_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "This coin commemorates one of the greatest triumphs in Italian art. It shows one of the most famous works in the world, the \"Birth of Venus\" by Sandro Botticelli.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_10cent.jpg"
+   "image": "it/Italy_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "This design features the Flavius amphitheatre, which Emperor Vespasian began building around 75 AD and Emperor Titus inaugurated in 80 AD.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_5cent.jpg"
+   "image": "it/Italy_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "This coin shows the Mole Antonelliana, a tower designed in 1863 by Alessandro Antonelli.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_2cent.jpg"
+   "image": "it/Italy_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "The Castel del Monte appears on this coin.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1cent.jpg"
+   "image": "it/Italy_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1cent.jpg"
   }
  ]
 }

@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "The €2 coin features a Latvian folk maiden. This image was originally used on the silver 5 lats coin in 1929. The edge of the coin bears the inscription DIEVS * SVĒTĪ * LATVIJU (GOD BLESS LATVIA). The designer is Guntars Sietiņš.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_2euro.jpg"
+   "image": "lv/Latvia_2euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_2euro.jpg"
   },
   {
    "value": "€1",
    "description": "The €1 coin features a Latvian folk maiden. This image was originally used on the silver 5 lats coin in 1929. The designer is Guntars Sietiņš.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1euro.jpg"
+   "image": "lv/Latvia_1euro.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1euro.jpg"
   },
   {
    "value": "50 cent",
    "description": "The 50 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_50cent.jpg"
+   "image": "lv/Latvia_50cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_50cent.jpg"
   },
   {
    "value": "20 cent",
    "description": "The 20 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_20cent.jpg"
+   "image": "lv/Latvia_20cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_20cent.jpg"
   },
   {
    "value": "10 cent",
    "description": "The 10 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_10cent.jpg"
+   "image": "lv/Latvia_10cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_10cent.jpg"
   },
   {
    "value": "5 cent",
    "description": "The 5 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_5cent.jpg"
+   "image": "lv/Latvia_5cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_5cent.jpg"
   },
   {
    "value": "2 cent",
    "description": "The 2 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_2cent.jpg"
+   "image": "lv/Latvia_2cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_2cent.jpg"
   },
   {
    "value": "1 cent",
    "description": "The 1 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1cent.jpg"
+   "image": "lv/Latvia_1cent.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1cent.jpg"
   }
  ]
 }

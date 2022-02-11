@@ -6,42 +6,50 @@
   {
    "value": "€2",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_2euroAl.jpg"
+   "image": "be/Belgium_2euroAl.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_2euroAl.jpg"
   },
   {
    "value": "€1",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1999_1euro.gif"
+   "image": "be/Belgium_1999_1euro.gif",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1999_1euro.gif"
   },
   {
    "value": "50 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_50cent_2002.jpg"
+   "image": "be/Belgium_50cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_50cent_2002.jpg"
   },
   {
    "value": "20 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_20cent_2002.jpg"
+   "image": "be/Belgium_20cent_2002.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_20cent_2002.jpg"
   },
   {
    "value": "10 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_10cent_1999.jpg"
+   "image": "be/Belgium_10cent_1999.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_10cent_1999.jpg"
   },
   {
    "value": "5 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_5cent_1999.jpg"
+   "image": "be/Belgium_5cent_1999.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_5cent_1999.jpg"
   },
   {
    "value": "2 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_2cent_2000.jpg"
+   "image": "be/Belgium_2cent_2000.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_2cent_2000.jpg"
   },
   {
    "value": "1 cent",
    "description": "Edge lettering of the €2 coin: 2 **, repeated six times, alternately upright and inverted.",
-   "image": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1cent_2000.jpg"
+   "image": "be/Belgium_1cent_2000.jpg",
+   "imageUrl": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1cent_2000.jpg"
   }
  ]
 }

@@ -30,11 +30,13 @@ class CountryCoin {
 class Coin {
   final String value;
   final String description;
+  final String image;
   final String imageUrl;
 
   Coin({
     required this.value,
     required this.description,
+    required this.image,
     required this.imageUrl,
   });
 
@@ -42,7 +44,8 @@ class Coin {
     return Coin(
       value: json['value'],
       description: json['description'],
-      imageUrl: json['image'],
+      image: json['image'],
+      imageUrl: json['imageUrl'],
     );
   }
 }
