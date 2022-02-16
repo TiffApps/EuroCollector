@@ -43,6 +43,7 @@ dependencies:
   archive: ^3.1.11
   shared_preferences: ^2.0.12
   stacked: ^2.2.8
+  percent_indicator: ^4.0.0
 
 dev_dependencies:
   flutter_test:

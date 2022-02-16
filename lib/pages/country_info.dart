@@ -16,7 +16,7 @@ class CountryInfo extends StatelessWidget {
     double screenWidth = MediaQuery.of(context).size.width;
 
     Future<Widget> _getCoinImage(Coin coin) async {
-      final File file = await AdditionalData().getFile(coin.image);
+      final File file = await getFile(coin.image);
       if (file.existsSync() == true) {
         return Image.file(file, fit: BoxFit.contain);
       } else {

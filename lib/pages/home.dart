@@ -29,21 +29,4 @@ class HomePage extends StatelessWidget {
       ),
     );
   }
-
-  Color _iconsColor(BuildContext context) {
-    final theme = NeumorphicTheme.of(context);
-    if (theme!.isUsingDark) {
-      return theme.current!.baseColor;
-    } else {
-      return Colors.teal;
-    }
-  }
-
-  Color _textColor(BuildContext context) {
-    if (NeumorphicTheme.isUsingDark(context)) {
-      return Colors.white;
-    } else {
-      return Colors.black;
-    }
-  }
 }

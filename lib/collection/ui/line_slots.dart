@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:euro_collector/models/country_coin.dart';
 import 'package:euro_collector/pages/country_info.dart';
-import 'package:euro_collector/pages/home.dart';
 import 'package:euro_collector/utils/bounce_widget.dart';
+import 'package:euro_collector/utils/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
@@ -51,7 +51,7 @@ class CountryLine extends StatelessWidget {
           // SIDE SCROLL COINS
           Expanded(
             child: SizedBox(
-              height: 100,
+              height: 150,
               child: ShaderMask(
                 shaderCallback: (Rect rect) {
                   return const LinearGradient(
@@ -78,8 +78,10 @@ class CountryLine extends StatelessWidget {
                   shrinkWrap: true,
                   itemCount: country.coins.length,
                   itemBuilder: (BuildContext context, int index) => SizedBox(
-                    width: 120,
+                    // width: 120,
+                    // height: 100,
                     child: NeumorphicButton(
+                      margin: const EdgeInsets.all(5),
                       onPressed: () {},
                       style: const NeumorphicStyle(
                         shape: NeumorphicShape.convex,
@@ -96,11 +98,14 @@ class CountryLine extends StatelessWidget {
                       //   errorWidget: (context, url, error) =>
                       //       const Icon(Icons.error),
                       // ),
-                      // child: Image.network(country.coins[index].imageUrl),
+                      // child: Image.network(
+                      //   country.coins[index].imageUrl,
+                      //   fit: BoxFit.contain,
+                      // ),
                       child: Icon(
                         Icons.favorite_border,
                         color: NeumorphicTheme.of(context)!.current!.baseColor,
-                        size: 70,
+                        size: coinSizes[index] * 1.5,
                       ),
                     ),
                   ),

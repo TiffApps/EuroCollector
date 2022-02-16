@@ -1,3 +1,4 @@
+import 'package:euro_collector/models/additional_data.dart';
 import 'package:euro_collector/pages/home.dart';
 import 'package:euro_collector/pages/loading.dart';
 import 'package:flutter/material.dart';
@@ -30,6 +31,7 @@ class EuroCollector extends StatelessWidget {
       ),
       home: HomePage(),
       // home: LoadingPage(),
+      // home: DeterminateIndicator(),
     );
   }
 }

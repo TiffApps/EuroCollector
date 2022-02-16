@@ -1,5 +1,6 @@
 import 'package:euro_collector/models/additional_data.dart';
 import 'package:flutter/material.dart';
+import 'package:percent_indicator/linear_percent_indicator.dart';
 import 'package:stacked/stacked.dart';
 
 class LoadingPage extends StatelessWidget {
@@ -43,14 +44,27 @@ class LoadingPage extends StatelessWidget {
                   const SizedBox(
                     height: 10,
                   ),
-                  Container(
-                    width: 300,
-                    height: 10,
-                    decoration:
-                        BoxDecoration(borderRadius: BorderRadius.circular(10)),
-                    child:
-                        LinearProgressIndicator(value: model.downloadProgress),
+                  // Container(
+                  //   width: 300,
+                  //   height: 10,
+                  //   decoration:
+                  //       BoxDecoration(borderRadius: BorderRadius.circular(10)),
+                  //   child:
+                  // LinearProgressIndicator(
+                  //   value: model.downloadProgress,
+                  //   color: Colors.lightGreen,
+                  // ),
+                  LinearPercentIndicator(
+                    // width:
+                    animation: true,
+                    lineHeight: 25.0,
+                    // animationDuration: 9000,
+                    percent: model.downloadProgress,
+                    center: Text(model.downloadProgress.toString()),
+                    barRadius: const Radius.circular(15),
+                    progressColor: Colors.lightGreen,
                   ),
+                  // ),
                   const SizedBox(
                     height: 150,
                   ),
